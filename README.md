@@ -5,4 +5,4 @@
 主要是想在github上保留一个简单全屏侧滑的演示版本。
 
 想了解更多侧滑手势，查看以下链接：
-[@Jazys](https://github.com/zys456465111/CustomPopAnimation)
+[@JazysYu](https://github.com/JazysYu/JZNavigationExtension)
